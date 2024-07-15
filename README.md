@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning Web Development
+- - 📫 How to reach me:  [My Insta](https://www.instagram.com/mfaisalal_/?utm_source=ig_web_button_share_sheet)
+
 <!--
 **Pesalll/Pesalll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
