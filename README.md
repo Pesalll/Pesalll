@@ -1,8 +1,11 @@
 ## Hi there 👋
 
 - 🌱 I’m currently learning Web Development
-    - Especially at backend with Expressjs
 - 📫 How to reach me:  [My Insta](https://www.instagram.com/mfaisalal_/?utm_source=ig_web_button_share_sheet)
+
+  Thanks For Visiting!
+
+  😋😅👋
 
 <!--
 **Pesalll/Pesalll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
